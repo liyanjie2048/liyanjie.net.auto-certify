@@ -55,9 +55,9 @@
 
 如您对本协议或许可证机制有任何疑问，或需要进行设备授权迁移，请通过以下方式联系我们：
 
-- **官方邮箱**：[auto-certify@liyanjie.net](mailto:auto-certify@liyanjie.net)
 - **官方网站**：[https://auto-certify.liyanjie.net](https://auto-certify.liyanjie.net "AutoCertify丨自动化证书申请与部署")
-- **客服支持**：[提交 Github Issues](https://github.com/liyanjie2048/liyanjie.net.auto-certify/issues)
+- **官方邮箱**：[auto-certify@liyanjie.net](mailto:auto-certify@liyanjie.net)
+- **问题反馈**：[提交 Github Issues](https://github.com/liyanjie2048/liyanjie.net.auto-certify/issues)
 
 ---
 
