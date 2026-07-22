@@ -1,8 +1,8 @@
 window.onload = () => {
     document.querySelectorAll('a[download]')
-        .forEach((item, i, p) => {
+        .forEach(item => {
             const id = item.id;
-            fetch(`https://auto-certify.liyanjie.net/${id}/latestVersion.json`)
+            fetch(`./${id}/latestVersion.json`)
                 .then(response => response.json())
                 .then(data => {
                     item.href = data.DownloadUrl;

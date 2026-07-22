@@ -1,0 +1,15 @@
+2
+2099/12/31 23:59:59
+
+------------Machine Info------------
+Windows
+BaseBoard: ASRock|B660M Steel Legend|
+BIOS: American Megatrends International, LLC.
+Processor: CPU0|GenuineIntel|Intel(R) Core(TM) i3-14100|
+DiskDrive: SAMSUNG SSD PM871b M.2 2280 256GB|S3U0NX0M348542
+
+------------Machine Code------------
+GhkXd4Ou80apaV6J9VLGad0VD1P8lVshqibsx3ipVUCRUmz1Fxm2qZga6Ftk0Pk7kJkuivGLP6mfBqPDc3yA0xNtt0L9nZiPObP1Yc1foejy1TXhs5JKF0yVO4Nq49NXc2NTJDxPcJNI7D00QU49iLM1V41ouFT801FwC0rcI+Xf7ljHzW4IgY/pL8TTzrXlH4n5wWGGZ5WFPhKkACBO/k+rYX+WDXNNFVxAIwqPCZ0p5shwdUbKob8ZohloXNXksShLSikoEah0PsMzr1kDysAqZCkDRzAjqu5Is50TGBIlEuIuapGiJTx80Mpts6FwHUZ678dB15Z6Kj+w9dXsi3mOcHUfuCQLvwepEkMex1loU9W2beo=
+
+------------License Key------------
+G4DZiifVNUyRuaGDaAq2ITPPRhbHlFhGDmLTHZfkJK32l1DU7snufdbcXV3Hb/Kk
