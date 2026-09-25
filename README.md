@@ -31,3 +31,7 @@
 ### 用户协议
 
 - [《用户协议》](./user-agreement.md "用户协议")
+
+### 预览
+
+![AutoCertify](./preview.png)
